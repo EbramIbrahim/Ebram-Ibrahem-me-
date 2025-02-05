@@ -36,7 +36,6 @@ I’m a passionate **Android Developer** with expertise in **Kotlin**, **Jetpack
 ## 🏆 Projects  
 
 ### **AlTasherat**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/yourusername/altasherat)  
 A travel permit management app built with **MVI**, **Retrofit**, and **Jetpack Compose**.  
 - **Tech Stack**: Kotlin, Clean Architecture, Dagger-Hilt, Room, Data Encryption.  
 - **Key Features**: Middleware for data sources, error-handling adapters, and API integration.  
@@ -45,12 +44,10 @@ A travel permit management app built with **MVI**, **Retrofit**, and **Jetpack C
 <summary>More Projects</summary>
 
 ### **Speech Therapy App**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/yourusername/speech-therapy)  
 An app to help children improve pronunciation through interactive levels.  
 - **Tech Stack**: Jetpack Compose, Firebase, Navigation Component.  
 
 ### **Movies App**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/yourusername/movies-app)  
 A movie discovery app using TMDB API, Jetpack Compose, and MVVM.  
 - **Tech Stack**: Kotlin Flow, Retrofit, Coil, Pagination.  
 
@@ -70,6 +67,6 @@ A movie discovery app using TMDB API, Jetpack Compose, and MVVM.
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:youremail@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ebramibrahem29)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](abramibrahem22@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/EbramIbrahim)  
