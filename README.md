@@ -28,38 +28,38 @@ Welcome to my GitHub! I'm a passionate mobile developer with 2+ years of experie
 
 ### 🏆 Featured Projects
 
-#### ✈️ [AlTasherat](https://github.com/EbramIbrahim/altasherat)
+#### ✈️ [AlTasherat]
 *Production App - Solution Plus*
 - Travel permit management system with data encryption
 - **Tech:** Android (Kotlin), MVI Architecture, Retrofit, GitLab
 - **Features:** Middleware provider for data sources, API optimization
 - Built adapter factory for error handling, reduced API response time
 - 
-#### 🩺 [Flutter Speech Therapy](https://github.com/EbramIbrahim/speech-therapy) 
+#### 🩺 [Flutter Speech Therapy]
 *Graduation Project - Grade A+*
 - Professional speech therapy app for clinics
 - **Tech:** Flutter, Bloc, Clean Architecture, Firebase
 - **Features:** Patient management, progress tracking, role-based access
 - Applied Singleton pattern and comprehensive testing
 
-#### 💱 [ConCurrency](https://github.com/EbramIbrahim/concurrency)
+#### 💱 [ConCurrency]
 *Top 5 Ranking - Banque Misr*
 - Currency converter app with real-time exchange rates
 - **Tech:** Android (Kotlin), Jetpack Compose, Clean Architecture, Figma
 - **Features:** Multi-currency support, historical data, elegant UI
 - Collaborated with cross-functional teams for feature development
 
-#### 📍 [Flutter Live Order Tracking](https://github.com/EbramIbrahim/live-order-tracking)
+#### 📍 [Flutter Live Order Tracking]
 - Real-time delivery tracking with Google Maps integration
 - **Tech:** Flutter, Bloc, Google Maps SDK, Firebase Realtime Database
 - **Features:** Live location sharing, smooth real-time updates
 
-#### 🚗 [Flutter Car Rental](https://github.com/EbramIbrahim/car-rental)
+#### 🚗 [Flutter Car Rental]
 - Modern car rental booking application
 - **Tech:** Flutter, Clean Architecture, State Management
 - **Features:** Real-time availability, booking history, scheduling
 
-#### 🏃‍♂️ [Running Tracker](https://github.com/EbramIbrahim/running-tracker)
+#### 🏃‍♂️ [Running Tracker]
 - GPS-based fitness tracking application
 - **Tech:** Android (Kotlin), Jetpack Compose, GPS Integration
 - **Features:** Real-time tracking, route mapping, session history
@@ -80,12 +80,6 @@ Welcome to my GitHub! I'm a passionate mobile developer with 2+ years of experie
 - Developed ConCurrency app (Top 5 ranking)
 - Used Jetpack Compose and Clean Architecture
 - Collaborated in cross-functional teams
-
-### 📊 GitHub Stats
-
-![Abram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbramIbrahim&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbramIbrahim&layout=compact&theme=radical)
 
 ### 🏅 Achievements & Certifications
 
